@@ -4,9 +4,6 @@
 
 I'm Tiyah, a Software developer driven by curiousity constantly tinkering with new projects, eager to collaborate, and always on the lookout to learn something new. Here’s a little about me and what you can find in my GitHub garden 🌱.
 
-![Home Office](https://github.com/DevTiyah/DevTiyah/assets/156305510/cff0e530-f720-47dd-89cb-4f1c0fdb00fa)
-
-
 
 ## 🚀 About Me
 
